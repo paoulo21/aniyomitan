@@ -24,5 +24,21 @@
         android:fillColor="#FF000000"
         android:pathData="m63.998,52.877 l-15.133,-8.736c-0.904,-0.521 -2.032,0.131 -2.032,1.173v17.474c0,1.044 1.13,1.695 2.032,1.173L63.997,55.224c0.904,-0.521 0.904,-1.825 0.001,-2.347z"
         android:strokeWidth="0.0853242"/>
-
+    <!-- JPDB corner badge - large and fully visible overlay -->
+    <!-- Large purple background circle/badge -->
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M65,0L108,0L108,43Z"/>
+    <!-- Large pink square inside -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M72,7L100,7L100,35Z"/>
+    <!-- Large white square accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,10L97,10L97,32Z"/>
+    <!-- Bold dark "J" or center marker -->
+    <path
+        android:fillColor="#1a1a1a"
+        android:pathData="M80,15L92,15L92,27Z"/>
 </vector>
