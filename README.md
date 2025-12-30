@@ -29,7 +29,7 @@ To use the JPDB vocabulary lookup feature:
    - Paste your API key and save
 
 3. **Use it while watching**:
-   - While watching anime with subtitles, tap the "Sub" button in the player controls
+   - While watching anime with subtitles, tap the "Parse" button in the player controls
    - Vocabulary from the current subtitle will be parsed and displayed
    - Swipe up on the overlay to dismiss it, or wait for auto-dismiss
 
